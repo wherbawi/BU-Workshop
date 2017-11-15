@@ -1,0 +1,14 @@
+/target/
+
+.DS_Store
+target
+.settings
+.project
+.classpath
+bin
+src/main/resources/config-dev.properties
+.idea
+log/**
+*.iml
+config.env
+graph-data/
