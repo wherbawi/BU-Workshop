@@ -1,4 +1,4 @@
-package edu.bu.utils;
+package edu.bu.cameraready.calculators;
 
 public class Point {
 	private double lat;

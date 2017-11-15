@@ -1,4 +1,4 @@
-package edu.bu.utils;
+package edu.bu.cameraready.calculators;
 
 import org.geotools.referencing.GeodeticCalculator;
 

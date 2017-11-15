@@ -1,7 +1,7 @@
-package edu.bu.main;
+package edu.bu.cameraready.main;
 
-import edu.bu.utils.DistanceCalculator;
-import edu.bu.utils.Point;
+import edu.bu.cameraready.calculators.DistanceCalculator;
+import edu.bu.cameraready.calculators.Point;
 
 public class Test {
 	public static void main(String a[]) {
