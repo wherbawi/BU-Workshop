@@ -1,8 +1,6 @@
-package edu.bu.cameraready.lambdas;
+package edu.bu.cameraready.interfaces.comparators;
 
-import edu.bu.cameraready.util.ComparisonOperator;
-
-public class OperatorMain {
+public class ComparisonOperatorMain {
 	public static void main(String[] a) {
 		ComparisonOperator comparisonOperator = false ? (num1, num2) -> num1 < num2 : (num1, num2) -> num1 <= num2;
 	}

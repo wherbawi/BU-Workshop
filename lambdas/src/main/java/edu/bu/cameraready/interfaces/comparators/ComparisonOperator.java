@@ -1,4 +1,4 @@
-package edu.bu.cameraready.util;
+package edu.bu.cameraready.interfaces.comparators;
 
 @FunctionalInterface
 public interface ComparisonOperator {
