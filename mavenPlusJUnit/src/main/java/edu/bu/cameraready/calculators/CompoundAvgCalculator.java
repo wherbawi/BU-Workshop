@@ -5,7 +5,7 @@ import java.util.List;
 import javax.inject.Inject;
 
 public class CompoundAvgCalculator {
-@Inject	private SumCalculator sumCalculator;
+	private SumCalculator sumCalculator;
 
 	public int getAverage(List<Integer> numbers) {
 

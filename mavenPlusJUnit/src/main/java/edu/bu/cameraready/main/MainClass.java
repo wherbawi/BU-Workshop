@@ -16,8 +16,5 @@ public class MainClass {
 		int dist = calculator.calcDist(new Point(48.764011, 9.167515), new Point(48.764145, 9.169478));
 		System.out.println(dist);
 
-		CompoundAvgCalculator avgCalculator = new CompoundAvgCalculator();
-		avgCalculator.setSumCalculator(new SumCalculator());
-		avgCalculator.getAverage(Arrays.asList(1, 2, 3));
 	}
 }
